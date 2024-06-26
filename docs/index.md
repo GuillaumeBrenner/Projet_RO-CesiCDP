@@ -5,7 +5,7 @@ title: Diagramme de Gantt du Projet
 ```mermaid
 gantt
     dateFormat  YYYY-MM-DD
-    title       Projet Mobilité Multimodale Intelligente
+    title       Projet RO - CesiCDP
 
     section Planification
     Définition des objectifs        :done,    des1, 2024-07-01, 2024-07-07
