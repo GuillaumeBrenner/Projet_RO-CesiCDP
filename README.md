@@ -55,3 +55,27 @@ Ce livrable se compose de deux parties :
 - WOJCIK YAËL
 - AMALLAH Youssef
 
+
+# Diagramme de Gantt du Projet
+
+| Tâche | Durée | Début | Fin | Responsable |
+|------|-------|-------|-----|-------------|
+| **Phase 1: Planification** | | | | |
+| Définition des objectifs | 1 semaine | 01/07/2024 | 07/07/2024 | Équipe projet |
+| Répartition des tâches | 1 semaine | 08/07/2024 | 14/07/2024 | Chef de projet |
+| **Phase 2: Modélisation** | | | | |
+| Modélisation formelle | 2 semaines | 15/07/2024 | 28/07/2024 | Modélisateur |
+| Analyse de la complexité | 2 semaines | 29/07/2024 | 11/08/2024 | Analyste |
+| **Phase 3: Développement** | | | | |
+| Développement de l'algorithme | 3 semaines | 12/08/2024 | 01/09/2024 | Développeur |
+| Tests unitaires | 1 semaine | 02/09/2024 | 08/09/2024 | Développeur |
+| **Phase 4: Implémentation et Tests** | | | | |
+| Implémentation dans un notebook Jupyter | 2 semaines | 09/09/2024 | 22/09/2024 | Développeur |
+| Tests sur différents cas de test | 2 semaines | 23/09/2024 | 06/10/2024 | Équipe projet |
+| **Phase 5: Analyse des Résultats** | | | | |
+| Étude statistique du comportement de l'algorithme | 2 semaines | 07/10/2024 | 20/10/2024 | Analyste |
+| **Phase 6: Documentation et Présentation** | | | | |
+| Rédaction de la documentation | 2 semaines | 21/10/2024 | 03/11/2024 | Équipe projet |
+| Préparation de la présentation | 1 semaine | 04/11/2024 | 10/11/2024 | Équipe projet |
+| Révision finale et soumission | 1 semaine | 11/11/2024 | 17/11/2024 | Chef de projet |
+
