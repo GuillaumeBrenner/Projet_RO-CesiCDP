@@ -33,7 +33,6 @@ Ce livrable se compose de deux parties :
 
 - `docs/` : Contient les documents relatifs à la modélisation et à l'analyse de la complexité.
 - `src/` : Contient le code source en Python.
-- `notebooks/` : Contient les notebooks Jupyter pour exécuter et démontrer le code.
 - `statistiques/` : Contient les résultats de l'étude statistique sur le comportement expérimental de l'algorithme.
 
 ## Installation et Utilisation
@@ -41,7 +40,7 @@ Ce livrable se compose de deux parties :
 ### Prérequis
 - Python 3.x
 - Jupyter Notebook
-- Bibliothèques Python : NumPy, Pandas, Matplotlib, etc. (Voir `requirements.txt`)
+- Bibliothèques Python : NumPy, Pandas, Matplotlib, etc. 
 
 ### Installation
 1. Cloner le repository :
