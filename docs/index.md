@@ -1,6 +1,5 @@
 ---
 title: Diagramme de Gantt du Projet
-layout: default
 ---
 
 ```mermaid
