@@ -46,8 +46,8 @@ Ce livrable se compose de deux parties :
 ### Installation
 1. Cloner le repository :
    ```bash
-   git clone https://github.com/username/projet-mobilite-multimodale.git
-   cd projet-mobilite-multimodale
+   git clone https://github.com/GuillaumeBrenner/Projet_RO-CesiCDP-.git
+   cd Projet_RO-CesiCDP-
 2. Lancer Jupyter Notebook 
 
 ## Auteurs
